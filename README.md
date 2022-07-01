@@ -30,13 +30,13 @@ You can see the details of a campaign and contribute.
 You can see the requests that campaign manager wants to get approval to spend money.
 Every contributer can approve any request. If a request has 50 percent approval rate, manager can finalize the request and the money will send to recipient.
 
-<img width="1163" alt="image" src="https://user-images.githubusercontent.com/74820307/176855191-e55dc3e1-e3d2-480b-acc5-9b2e6e4ca9b5.png">
+<img width="1174" alt="image" src="https://user-images.githubusercontent.com/74820307/176857150-9ecc1a74-46d7-4344-9563-78dfff816a11.png">
 
 
 ## Create Request
 
 Manager can create request.
 
-<img width="1163" alt="image" src="https://user-images.githubusercontent.com/74820307/176855476-8de4549b-5014-42ee-85b4-449993364abb.png">
+<img width="1168" alt="image" src="https://user-images.githubusercontent.com/74820307/176857245-5308f251-45a4-4213-8267-7423b1fd2759.png">
 
 
